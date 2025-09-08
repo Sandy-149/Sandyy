@@ -1,0 +1,9 @@
+| Command                   | Description            |
+| ------------------------- | ---------------------- |
+| `git status`              | Show status of changes |
+| `git add <file>`          | Stage a file           |
+| `git add .`               | Stage all changes      |
+| `git commit -m "Message"` | Commit staged changes  |
+| `git log`                 | View commit history    |
+| `git diff`                | See unstaged changes   |
+| `git diff --staged`       | See staged changes     |
